@@ -23,6 +23,9 @@ body{
     width: 50%;
 }
 
+footer img{
+    width: 100%;
+}
 @media screen and (max-width: 768px){
     .herobanner{
         background-image: url("img/bgCel2.png");
